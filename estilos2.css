@@ -1,0 +1,73 @@
+
+
+.flex-container{
+    display: flex;
+    width: 50;
+    justify-content: center;
+}
+
+/* cajas */
+.flex-item{
+    margin-top: 2rem;
+    margin-left: 10px;
+    height: 200px;
+    width: 200px;
+    padding: auto;
+    text-align: center;
+}
+
+.flex-item h4 {
+    padding-top: 20px ;
+
+}
+
+.flex-item p{
+    padding-top: 10px;
+}
+
+.blue{
+    border: 2px solid blue;
+}
+
+.aqua{
+    border: 2px solid aqua;
+}
+
+.yellow{
+    border: 2px solid yellow
+}
+
+.col{
+    margin-bottom: 3rem;
+}
+
+.pago input{
+    background-color: cornflowerblue;
+    
+}
+
+/* color de los botones */
+.linea input{
+    
+    background-color: green;
+    color: aliceblue;
+}
+
+.linea button{
+    background-color: green;
+    color: aliceblue;
+}
+
+.navbar{
+    background-color:steelblue;
+    
+}
+
+.footer a {
+    display:inline;
+    width: 100%;
+    margin-inline: 40px;
+    color:aliceblue;
+
+    
+}
